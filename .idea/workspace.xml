@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2027c5eb-91e4-4bad-ad7e-08fca7812441" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020 Nov/1121/6317/6317.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +14,7 @@
     <session id="-61493406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="11" />
@@ -40,12 +39,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="5814" />
-          <entry key="txt" value="142" />
+          <entry key="txt" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="142" />
+          <entry key="PLAIN_TEXT" value="146" />
           <entry key="Python" value="5814" />
         </counts>
       </usages-collector>
@@ -74,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2020 Nov/1121/6317/6317.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -601,19 +600,25 @@
       <option name="project" value="LOCAL" />
       <updated>1605878632371</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="1121">
+      <created>1605958303589</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605958303589</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12539515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33116177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33116177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -631,7 +636,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1019" />
     <MESSAGE value="1020" />
     <MESSAGE value="1022" />
     <MESSAGE value="1023" />
@@ -656,7 +660,8 @@
     <MESSAGE value="1117" />
     <MESSAGE value="1119" />
     <MESSAGE value="1120" />
-    <option name="LAST_COMMIT_MESSAGE" value="1120" />
+    <MESSAGE value="1121" />
+    <option name="LAST_COMMIT_MESSAGE" value="1121" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1010,8 +1015,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2020 Nov/1121/6317/6317.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        <state>
+          <caret selection-end-line="2" selection-end-column="46" />
         </state>
       </provider>
     </entry>
