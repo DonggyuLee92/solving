@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2027c5eb-91e4-4bad-ad7e-08fca7812441" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020 Nov/1124/6273/6273.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020 Nov/1125/6275/6275.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020 Nov/1125/6275/6275.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,38 +16,38 @@
     <session id="-61493406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="13" />
-          <entry key="project.open.time.5" value="10" />
+          <entry key="project.open.time.5" value="11" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="40" />
-          <entry key="txt" value="10" />
+          <entry key="py" value="41" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="40" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5929" />
-          <entry key="txt" value="146" />
+          <entry key="py" value="6100" />
+          <entry key="txt" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="146" />
-          <entry key="Python" value="5929" />
+          <entry key="PLAIN_TEXT" value="150" />
+          <entry key="Python" value="6100" />
         </counts>
       </usages-collector>
     </session>
@@ -54,28 +55,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2020 Nov/1120/6316/6316.py">
+        <entry file="file://$PROJECT_DIR$/2020 Nov/1124/6273/6273.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="85" selection-start-column="85" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2020 Nov/1121/6317/6317.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="323">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2020 Nov/1124/6273/6273.py">
+        <entry file="file://$PROJECT_DIR$/2020 Nov/1125/6275/6275.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="114">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020 Nov/1125/6275/6275.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="110" lean-forward="true" selection-start-column="110" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -206,6 +207,8 @@
         <option value="$PROJECT_DIR$/2020 Nov/1120/6316/6316.py" />
         <option value="$PROJECT_DIR$/2020 Nov/1121/6317/6317.py" />
         <option value="$PROJECT_DIR$/2020 Nov/1124/6273/6273.py" />
+        <option value="$PROJECT_DIR$/2020 Nov/1125/6275/6275.txt" />
+        <option value="$PROJECT_DIR$/2020 Nov/1125/6275/6275.py" />
       </list>
     </option>
   </component>
@@ -235,7 +238,14 @@
               <item name="solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="solving" type="462c0819:PsiDirectoryNode" />
               <item name="2020 Nov" type="462c0819:PsiDirectoryNode" />
-              <item name="1124" type="462c0819:PsiDirectoryNode" />
+              <item name="1125" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solving" type="462c0819:PsiDirectoryNode" />
+              <item name="2020 Nov" type="462c0819:PsiDirectoryNode" />
+              <item name="1125" type="462c0819:PsiDirectoryNode" />
+              <item name="6275" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6273">
+  <component name="RunManager" selected="Python.6275">
     <configuration name="6273" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,6 +289,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020 Nov/1124/6273/6273.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6275" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020 Nov/1125/6275" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020 Nov/1125/6275/6275.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,41 +381,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6329" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020 Nov/1111/6329" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020 Nov/1111/6329/6329.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.6329" />
       <item itemvalue="Python.6308" />
       <item itemvalue="Python.6316" />
       <item itemvalue="Python.6317" />
       <item itemvalue="Python.6273" />
+      <item itemvalue="Python.6275" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6275" />
         <item itemvalue="Python.6273" />
         <item itemvalue="Python.6317" />
         <item itemvalue="Python.6316" />
         <item itemvalue="Python.6308" />
-        <item itemvalue="Python.6329" />
       </list>
     </recent_temporary>
   </component>
@@ -609,19 +619,26 @@
       <option name="project" value="LOCAL" />
       <updated>1605958303589</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="1124">
+      <created>1606226964544</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606226964544</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12539515" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2542735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33116177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33442983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -639,7 +656,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1020" />
     <MESSAGE value="1022" />
     <MESSAGE value="1023" />
     <MESSAGE value="1024" />
@@ -664,7 +680,8 @@
     <MESSAGE value="1119" />
     <MESSAGE value="1120" />
     <MESSAGE value="1121" />
-    <option name="LAST_COMMIT_MESSAGE" value="1121" />
+    <MESSAGE value="1124" />
+    <option name="LAST_COMMIT_MESSAGE" value="1124" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -967,6 +984,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2020 Nov/1121/6317/6317.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2020 Oct/1028/6244/6244.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1009,6 +1033,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2020 Nov/1124/6273/6273.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2020 Oct/1015/sw6204/6204.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1016,17 +1047,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020 Nov/1121/6317/6317.py">
+    <entry file="file://$PROJECT_DIR$/2020 Nov/1125/6275/6275.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state>
+          <caret column="110" lean-forward="true" selection-start-column="110" selection-end-column="110" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020 Nov/1124/6273/6273.py">
+    <entry file="file://$PROJECT_DIR$/2020 Nov/1125/6275/6275.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="114">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
