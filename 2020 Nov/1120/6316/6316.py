@@ -1,0 +1,1 @@
+print(list(map(lambda y: y**2, list((filter(lambda x: x%2==0, list(range(1,11))))))))
