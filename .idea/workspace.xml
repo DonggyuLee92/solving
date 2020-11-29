@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2027c5eb-91e4-4bad-ad7e-08fca7812441" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020 Nov/1128/6286/6286.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020 Nov/1129/6288/6288.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,10 +20,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1kxqpXKxgoD4NQFw3TDAKlnlv6Q" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -32,28 +39,7 @@
       <recent name="C:\Users\multicampus\Desktop\solving\2020 Oct\1022\6222" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6286">
-    <configuration name="6276" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020 Nov/1126/6276" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020 Nov/1126/6276/6276.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.6288">
     <configuration name="6277" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,20 +124,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6288" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020 Nov/1129/6288" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020 Nov/1129/6288/6288.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.6276" />
       <item itemvalue="Python.6277" />
       <item itemvalue="Python.6280" />
       <item itemvalue="Python.6282" />
       <item itemvalue="Python.6286" />
+      <item itemvalue="Python.6288" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6288" />
         <item itemvalue="Python.6286" />
         <item itemvalue="Python.6282" />
         <item itemvalue="Python.6280" />
         <item itemvalue="Python.6277" />
-        <item itemvalue="Python.6276" />
       </list>
     </recent_temporary>
   </component>
@@ -404,11 +411,17 @@
       <option name="project" value="LOCAL" />
       <updated>1606390671714</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="1128">
+      <created>1606572361945</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1606572361945</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1024" />
     <MESSAGE value="1025 코딩테스트" />
     <MESSAGE value="1027" />
     <MESSAGE value="1028" />
@@ -433,41 +446,50 @@
     <MESSAGE value="1124" />
     <MESSAGE value="1125" />
     <MESSAGE value="1126" />
-    <option name="LAST_COMMIT_MESSAGE" value="1126" />
+    <MESSAGE value="1128" />
+    <option name="LAST_COMMIT_MESSAGE" value="1128" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1258" height="400" key="GridCell.Tab.0.bottom" timestamp="1606572337229">
+    <state x="1569" y="293" key="CommitChangelistDialog2" timestamp="1606572360714">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606572337229" />
-    <state width="1258" height="400" key="GridCell.Tab.0.center" timestamp="1606572337229">
+    <state x="1569" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606572360714" />
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom" timestamp="1606653346688">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606572337229" />
-    <state width="1258" height="400" key="GridCell.Tab.0.left" timestamp="1606572337229">
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346688" />
+    <state width="1258" height="398" key="GridCell.Tab.0.center" timestamp="1606653346687">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606572337229" />
-    <state width="1258" height="400" key="GridCell.Tab.0.right" timestamp="1606572337229">
+    <state width="1258" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346687" />
+    <state width="1258" height="398" key="GridCell.Tab.0.left" timestamp="1606653346687">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606572337229" />
-    <state width="1258" height="494" key="GridCell.Tab.1.bottom" timestamp="1606572294401">
+    <state width="1258" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346687" />
+    <state width="1258" height="398" key="GridCell.Tab.0.right" timestamp="1606653346688">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="494" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606572294401" />
-    <state width="1258" height="494" key="GridCell.Tab.1.center" timestamp="1606572294401">
+    <state width="1258" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346688" />
+    <state width="1258" height="494" key="GridCell.Tab.1.bottom" timestamp="1606572363521">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="494" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606572294401" />
-    <state width="1258" height="494" key="GridCell.Tab.1.left" timestamp="1606572294401">
+    <state width="1258" height="494" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606572363521" />
+    <state width="1258" height="494" key="GridCell.Tab.1.center" timestamp="1606572363521">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="494" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606572294401" />
-    <state width="1258" height="494" key="GridCell.Tab.1.right" timestamp="1606572294401">
+    <state width="1258" height="494" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606572363521" />
+    <state width="1258" height="494" key="GridCell.Tab.1.left" timestamp="1606572363520">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="494" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606572294401" />
+    <state width="1258" height="494" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606572363520" />
+    <state width="1258" height="494" key="GridCell.Tab.1.right" timestamp="1606572363521">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="494" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606572363521" />
+    <state x="1612" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1606652850040">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1612" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606652850040" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
