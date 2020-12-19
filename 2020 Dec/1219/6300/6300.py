@@ -9,3 +9,5 @@ for i in input_list:
 
 
 print(ans)
+
+# print(input_list[0])
