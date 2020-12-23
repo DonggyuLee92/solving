@@ -4,6 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/2020 Nov/1127/6282/6282.py" line="11" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="2027c5eb-91e4-4bad-ad7e-08fca7812441" name="Default Changelist" comment="">
 <<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/2020 Nov/1129/6288/6288.py" afterDir="false" />
@@ -16,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="2027c5eb-91e4-4bad-ad7e-08fca7812441" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -767,6 +771,7 @@
       <option name="project" value="LOCAL" />
       <updated>1606572361945</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="36" />
     <task id="LOCAL-00035" summary="1127">
       <created>1606471411229</created>
@@ -811,6 +816,16 @@
       <updated>1607089225302</updated>
     </task>
     <option name="localTasksCounter" value="41" />
+=======
+    <task id="LOCAL-00036" summary="1129">
+      <created>1606653368362</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1606653368362</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -840,7 +855,10 @@
   </component>
   <component name="VcsManagerConfiguration">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <MESSAGE value="1025 코딩테스트" />
+=======
+>>>>>>> Stashed changes
     <MESSAGE value="1027" />
     <MESSAGE value="1028" />
     <MESSAGE value="1029" />
@@ -867,6 +885,7 @@
     <MESSAGE value="1125" />
     <MESSAGE value="1126" />
     <MESSAGE value="1128" />
+<<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="1128" />
     <MESSAGE value="1127" />
     <MESSAGE value="1130" />
@@ -875,28 +894,32 @@
     <MESSAGE value="1203" />
     <MESSAGE value="1204" />
     <option name="LAST_COMMIT_MESSAGE" value="1204" />
+=======
+    <MESSAGE value="1129" />
+    <option name="LAST_COMMIT_MESSAGE" value="1129" />
+>>>>>>> Stashed changes
   </component>
   <component name="WindowStateProjectService">
-    <state x="1569" y="293" key="CommitChangelistDialog2" timestamp="1606572360714">
+    <state x="1569" y="293" key="CommitChangelistDialog2" timestamp="1606653367012">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1569" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606572360714" />
-    <state width="1258" height="398" key="GridCell.Tab.0.bottom" timestamp="1606653346688">
+    <state x="1569" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1606653367012" />
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom" timestamp="1606653369549">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346688" />
-    <state width="1258" height="398" key="GridCell.Tab.0.center" timestamp="1606653346687">
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606653369549" />
+    <state width="1258" height="398" key="GridCell.Tab.0.center" timestamp="1606653369549">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346687" />
-    <state width="1258" height="398" key="GridCell.Tab.0.left" timestamp="1606653346687">
+    <state width="1258" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606653369549" />
+    <state width="1258" height="398" key="GridCell.Tab.0.left" timestamp="1606653369549">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346687" />
-    <state width="1258" height="398" key="GridCell.Tab.0.right" timestamp="1606653346688">
+    <state width="1258" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606653369549" />
+    <state width="1258" height="398" key="GridCell.Tab.0.right" timestamp="1606653369549">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606653346688" />
+    <state width="1258" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606653369549" />
     <state width="1258" height="494" key="GridCell.Tab.1.bottom" timestamp="1606572363521">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
